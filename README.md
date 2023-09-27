@@ -1,6 +1,6 @@
 # ASSIGNMENT-3 RASPI REPORT
 
-<h3>Team Members: </h3> <br>
+<h3>Team Members: </h3>
 Mohammed Wasim Shaik - SE20UARI098 - wasim20uari098@mahindrauniversity.edu.in <br>
 Sai Arun Vakacherla - SE20UARI131 - arun20uari131@mahindrauniversity.edu.in <br>
 Sujith Sai Kalakonda - SE20UARI151 - sujith20uari151@mahindrauniversity.edu.in <br>
