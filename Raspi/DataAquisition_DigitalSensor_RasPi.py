@@ -2,18 +2,23 @@ import Adafruit_DHT # Library for interfacing with the DHT11 sensor
 import time
 import pyrebase # Library for Firebase integration
 
+# Firebase configuration
 config = {
     "apiKey": "your_api_key",
     "authDomain": "your_auth_domain",
     "databaseURL": "your_database_url",
     "storageBucket": "your_dbProject_name.appspot.com"}
 
+# Initialize Firebase
 firebase = pyrebase.initialize_app(config)
 
+# Initialize the Firebase database
 db = firebase.database()
 
+# Define the sensor type (DHT11)
 sensor = Adafruit_DHT.DHT11
 
+# Define the GPIO pin to which the sensor is connected (pin 23)
 pin = 23
 
 # Start an infinite loop to continuously acquire and send sensor data
