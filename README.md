@@ -14,7 +14,7 @@ In this project, we used a Raspberry Pi to acquire data from a DHT11 digital sen
 Sensor Description:
 The DHT11 sensor is a low-cost digital sensor capable of measuring temperature and humidity. It communicates with the Raspberry Pi through a single data pin, making it relatively simple to interface with. The sensor provides data in a digital format, which can be easily read and processed by the Raspberry Pi.
 
-DHT11 Temperature and Humidity Sensor Module for Arduino Raspberry Pi
+DHT11 Temperature and Humidity Sensor Module for Arduino Raspberry Pi:
 ![image](https://github.com/sujithsai-kalakonda/se20uari151_assign3_RasPi/assets/108214819/2f7191a6-6e28-4bed-a167-284fdeb52383)
 
 Use Case:
