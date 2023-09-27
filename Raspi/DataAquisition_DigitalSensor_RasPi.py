@@ -14,7 +14,7 @@ db = firebase.database()
 
 sensor = Adafruit_DHT.DHT11
 
-pin = 21
+pin = 23
 
 # Start an infinite loop to continuously acquire and send sensor data
 while True:
